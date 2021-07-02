@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-A head figure is not a leadership figure
+I have changed something here what do i have to do now that we are not in the mess we are now
 Use the left arrow to go back
